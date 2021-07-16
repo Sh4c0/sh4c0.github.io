@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - ShacozzZ&#39;s Blog</title>
-        <link>sh4c0.github.io/posts/</link>
+        <link>https://sh4c0.github.io/posts/</link>
         <description>所有文章 | ShacozzZ&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 16 Jul 2021 16:21:58 &#43;0800</lastBuildDate><atom:link href="sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Fri, 16 Jul 2021 16:21:58 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First_post</title>
-    <link>sh4c0.github.io/posts/first_post/</link>
+    <link>https://sh4c0.github.io/posts/first_post/</link>
     <pubDate>Fri, 16 Jul 2021 16:21:58 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>sh4c0.github.io/posts/first_post/</guid>
+    <guid>https://sh4c0.github.io/posts/first_post/</guid>
     <description><![CDATA[大声打手机开会 阿斯顿jhasjkh dsakhdsjkah sdahikshaikdh大宋和雕塑 阿什顿看哈说 sajkdhasjkhjkas]]></description>
 </item></channel>
 </rss>
