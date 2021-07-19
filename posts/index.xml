@@ -11,12 +11,5 @@
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1200e/</guid>
     <description><![CDATA[传送门 题意 给n个字符串合并成一个串并且合并时消除后一个串最长的与前一个串后缀相同的前缀，即ab与bc合并为abc 思路 将字符串hash之后暴力]]></description>
-</item><item>
-    <title>First_post</title>
-    <link>https://sh4c0.github.io/posts/first_post/</link>
-    <pubDate>Fri, 16 Jul 2021 16:21:58 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/first_post/</guid>
-    <description><![CDATA[我爱你❤️]]></description>
 </item></channel>
 </rss>
