@@ -3,7 +3,8 @@
         <title>ShacozzZ&#39;s Blog</title>
         <link>https://sh4c0.github.io/</link>
         <description>ShacozzZ&#39;s Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 18 Jul 2021 11:24:51 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Sun, 18 Jul 2021 11:24:51 &#43;0800</lastBuildDate>
             <atom:link href="https://sh4c0.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Codeforces1200E Compress Words</title>
