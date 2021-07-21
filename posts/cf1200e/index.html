@@ -15,7 +15,7 @@
 <meta name="twitter:title" content="Codeforces1200E Compress Words"/>
 <meta name="twitter:description" content="传送门 题意 给n个字符串合并成一个串并且合并时消除后一个串最长的与前一个串后缀相同的前缀，即ab与bc合并为abc 思路 将字符串hash之后暴力"/>
 <meta name="application-name" content="ShacozzZ&#39;s Blog">
-<meta name="apple-mobile-web-app-title" content="ShacozzZ&#39;s Blog"><link rel="icon" href="/images/logo.svg"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://sh4c0.github.io/posts/cf1200e/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+<meta name="apple-mobile-web-app-title" content="ShacozzZ&#39;s Blog"><link rel="icon" href="/images/logo.svg"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://sh4c0.github.io/posts/cf1200e/" /><link rel="next" href="https://sh4c0.github.io/posts/cf1385e/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
@@ -24,7 +24,7 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/sh4c0.github.io\/posts\/cf1200e\/"
-        },"genre": "posts","keywords": "codeforces, stringhash","wordcount":  336 ,
+        },"genre": "posts","keywords": "codeforces, stringhash","wordcount":  415 ,
         "url": "https:\/\/sh4c0.github.io\/posts\/cf1200e\/","datePublished": "2021-07-18T11:24:51+08:00","dateModified": "2021-07-18T11:24:51+08:00","publisher": {
             "@type": "Organization",
             "name": "ShacozzZ"},"author": {
@@ -115,7 +115,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Codeforces1200E Compress Words</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>ShacozzZ</a></span>&nbsp;<span class="post-category">收录于 <a href="/categories/2021/7/"><i class="far fa-folder fa-fw"></i>2021/7</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-07-18">2021-07-18</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 336 字&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-07-18">2021-07-18</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 415 字&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 1 分钟&nbsp;<span id="/posts/cf1200e/" class="leancloud_visitors" data-flag-title="Codeforces1200E Compress Words">
                         <i class="far fa-eye fa-fw"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;次阅读
                     </span>&nbsp;</div>
@@ -131,6 +131,7 @@
         <li><a href="#题意">题意</a></li>
         <li><a href="#思路">思路</a></li>
         <li><a href="#代码">代码</a></li>
+        <li><a href="#小结">小结</a></li>
       </ul>
     </li>
   </ul>
@@ -261,7 +262,9 @@
     <span class="p">}</span>
     <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
 <span class="p">}</span>
-</code></pre></div></div><div class="post-footer" id="post-footer">
+</code></pre></div><h3 id="小结">小结</h3>
+<p>不得不吐槽Codeforces的数据太狠了（<del>可想当时比赛的时候被hack了多少人</del>），主要注意的是unsigned long long 自然溢出这种hash方式貌似很容易被卡</p>
+</div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
@@ -284,7 +287,8 @@
         </section>
     </div>
 
-    <div class="post-nav"></div>
+    <div class="post-nav">
+            <a href="/posts/cf1385e/" class="next" rel="next" title="Codeforces1385E Directing Edges">Codeforces1385E Directing Edges<i class="fas fa-angle-right fa-fw"></i></a></div>
 </div>
 <div id="comments"><div id="valine" class="comment"></div><noscript>
                 Please enable JavaScript to view the comments powered by <a href="https://valine.js.org/">Valine</a>.
