@@ -5,6 +5,13 @@
         <description>2021/7 - 分类 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
             <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><atom:link href="https://sh4c0.github.io/categories/2021/7/" rel="self" type="application/rss+xml" /><item>
+    <title>Codeforces1454E Number of Simple Paths</title>
+    <link>https://sh4c0.github.io/posts/cf1454e/</link>
+    <pubDate>Mon, 26 Jul 2021 20:34:04 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/cf1454e/</guid>
+    <description><![CDATA[传送门 题意 给n个点n条边的无向图，求有多少条简单路径 思路 不难发现图为一棵树增加一条边使得树中出现了一个环，首先找出环，然后如果两个点之间经过]]></description>
+</item><item>
     <title>Codeforces1385E Directing Edges</title>
     <link>https://sh4c0.github.io/posts/cf1385e/</link>
     <pubDate>Wed, 21 Jul 2021 19:43:33 &#43;0800</pubDate>
