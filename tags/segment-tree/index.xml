@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>segment tree - 标签 - ShacozzZ&#39;s Blog</title>
+        <link>https://sh4c0.github.io/tags/segment-tree/</link>
+        <description>segment tree - 标签 - ShacozzZ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 27 Jul 2021 17:13:35 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/segment-tree/" rel="self" type="application/rss+xml" /><item>
+    <title>Codeforces1454E Array Partition</title>
+    <link>https://sh4c0.github.io/posts/cf1454f/</link>
+    <pubDate>Tue, 27 Jul 2021 17:13:35 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/cf1454f/</guid>
+    <description><![CDATA[传送门 题意 给一个数组，分割成三个区间，使得左区间的最大值等于中间区间的最小值等于右区间的最大值 思路 首先用线段树维护区间的最大值最小值不难想到]]></description>
+</item></channel>
+</rss>
