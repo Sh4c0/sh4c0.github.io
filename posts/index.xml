@@ -4,7 +4,14 @@
         <link>https://sh4c0.github.io/posts/</link>
         <description>所有文章 | ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 27 Jul 2021 17:13:35 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Thu, 12 Aug 2021 19:24:21 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>2021CCPC东北四省赛C Vertex Deletion</title>
+    <link>https://sh4c0.github.io/posts/gym103145c/</link>
+    <pubDate>Thu, 12 Aug 2021 19:24:21 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/gym103145c/</guid>
+    <description><![CDATA[传送门 题意 问有多少种删点方案使得剩下的点至少与一个点相连 思路 定义dp[i][0/1/2]代表对于节点i为根的子树，将节点i删去、保留节点i且]]></description>
+</item><item>
     <title>Codeforces1454F Array Partition</title>
     <link>https://sh4c0.github.io/posts/cf1454f/</link>
     <pubDate>Tue, 27 Jul 2021 17:13:35 &#43;0800</pubDate>
