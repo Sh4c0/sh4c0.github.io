@@ -2,12 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://sh4c0.github.io/tags/dijkstra/</loc><lastmod>2021-08-25T22:33:14&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/tags/poj/</loc><lastmod>2021-08-25T22:33:14&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/posts/poj3463/</loc><lastmod>2021-08-25T22:33:14&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/posts/</loc><lastmod>2021-08-25T22:33:14&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/</loc><lastmod>2021-08-25T22:33:14&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/tags/</loc><lastmod>2021-08-25T22:33:14&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/gym103145c/</loc><lastmod>2021-08-12T19:24:21&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/dp/</loc><lastmod>2021-08-12T19:24:21&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/gym/</loc><lastmod>2021-08-12T19:24:21&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/posts/</loc><lastmod>2021-08-12T19:24:21&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/</loc><lastmod>2021-08-12T19:24:21&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/tags/</loc><lastmod>2021-08-12T19:24:21&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/tree/</loc><lastmod>2021-08-12T19:24:21&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/binary-search/</loc><lastmod>2021-07-27T17:13:35&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/codeforces/</loc><lastmod>2021-07-27T17:13:35&#43;08:00</lastmod></url><url>
@@ -20,7 +23,7 @@
             <loc>https://sh4c0.github.io/love/</loc><lastmod>2021-07-19T19:15:10&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/about/</loc><lastmod>2021-07-19T18:26:44&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/cf1200e/</loc><lastmod>2021-07-18T11:24:51&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/tags/stringhash/</loc><lastmod>2021-07-18T11:24:51&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/tags/string-hash/</loc><lastmod>2021-07-18T11:24:51&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/categories/2021/7/</loc></url><url>
             <loc>https://sh4c0.github.io/categories/2021/8/</loc></url><url>
             <loc>https://sh4c0.github.io/categories/</loc></url></urlset>

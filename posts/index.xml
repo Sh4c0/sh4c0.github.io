@@ -4,7 +4,14 @@
         <link>https://sh4c0.github.io/posts/</link>
         <description>所有文章 | ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Thu, 12 Aug 2021 19:24:21 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Wed, 25 Aug 2021 22:33:14 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>POJ3463 Sightseeing</title>
+    <link>https://sh4c0.github.io/posts/poj3463/</link>
+    <pubDate>Wed, 25 Aug 2021 22:33:14 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/poj3463/</guid>
+    <description><![CDATA[传送门 题意 给一张图，求最短路个数以及与最短路相差为1的次短路的个数之和 思路 最短路计数和次短路计数的模板题，将次短路丢入优先队列中即可。 代码 /**]]></description>
+</item><item>
     <title>2021CCPC东北四省赛C Vertex Deletion</title>
     <link>https://sh4c0.github.io/posts/gym103145c/</link>
     <pubDate>Thu, 12 Aug 2021 19:24:21 &#43;0800</pubDate>
