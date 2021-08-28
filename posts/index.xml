@@ -5,49 +5,49 @@
         <description>所有文章 | ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
             <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Sat, 28 Aug 2021 21:43:18 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>Cf1562E Rescue Niwen!</title>
+    <title>Codeforces 1562E Rescue Niwen!</title>
     <link>https://sh4c0.github.io/posts/cf1562e/</link>
     <pubDate>Sat, 28 Aug 2021 21:43:18 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1562e/</guid>
     <description><![CDATA[传送门 题意 将一个字符串按如下形式拆分为若干个串： 以$abcd$为例，拆分为$a,ab,abc,abcd,b,bc,bcd,c,cd,d$ 输出]]></description>
 </item><item>
-    <title>POJ3463 Sightseeing</title>
+    <title>POJ 3463 Sightseeing</title>
     <link>https://sh4c0.github.io/posts/poj3463/</link>
     <pubDate>Wed, 25 Aug 2021 22:33:14 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/poj3463/</guid>
     <description><![CDATA[传送门 题意 给一张图，求到终点最短路个数以及与最短路相差为1的次短路的个数之和 思路 最短路计数和次短路计数的模板题，将次短路丢入优先队列中即可。]]></description>
 </item><item>
-    <title>2021CCPC东北四省赛C Vertex Deletion</title>
+    <title>2021CCPC东北四省赛 C Vertex Deletion</title>
     <link>https://sh4c0.github.io/posts/gym103145c/</link>
     <pubDate>Thu, 12 Aug 2021 19:24:21 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/gym103145c/</guid>
     <description><![CDATA[传送门 题意 问有多少种删点方案使得剩下的点至少与一个点相连 思路 定义$dp[i][0/1/2]$代表对于节点i为根的子树，将节点$i$删去、保留]]></description>
 </item><item>
-    <title>Codeforces1454F Array Partition</title>
+    <title>Codeforces 1454F Array Partition</title>
     <link>https://sh4c0.github.io/posts/cf1454f/</link>
     <pubDate>Tue, 27 Jul 2021 17:13:35 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1454f/</guid>
     <description><![CDATA[传送门 题意 给一个数组，分割成三个区间，使得左区间的最大值等于中间区间的最小值等于右区间的最大值 思路 首先用线段树维护区间的最大值最小值不难想到]]></description>
 </item><item>
-    <title>Codeforces1454E Number of Simple Paths</title>
+    <title>Codeforces 1454E Number of Simple Paths</title>
     <link>https://sh4c0.github.io/posts/cf1454e/</link>
     <pubDate>Mon, 26 Jul 2021 20:34:04 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1454e/</guid>
-    <description><![CDATA[传送门 题意 给n个点n条边的无向图，求有多少条简单路径 思路 不难发现图为一棵树增加一条边使得树中出现了一个环，首先找出环，然后如果两个点之间经过]]></description>
+    <description><![CDATA[传送门 题意 给$n$个点$n$条边的无向图，求有多少条简单路径 思路 不难发现图为一棵树增加一条边使得树中出现了一个环，首先找出环，然后如果两个点]]></description>
 </item><item>
-    <title>Codeforces1385E Directing Edges</title>
+    <title>Codeforces 1385E Directing Edges</title>
     <link>https://sh4c0.github.io/posts/cf1385e/</link>
     <pubDate>Wed, 21 Jul 2021 19:43:33 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1385e/</guid>
     <description><![CDATA[传送门 题意 给一个图包含有向边和无向边，将所有无向边改为有向边并且使图中不存在环 思路 首先删除掉所有有向边，通过拓扑排序判断是否有环，如果不存在]]></description>
 </item><item>
-    <title>Codeforces1200E Compress Words</title>
+    <title>Codeforces 1200E Compress Words</title>
     <link>https://sh4c0.github.io/posts/cf1200e/</link>
     <pubDate>Sun, 18 Jul 2021 11:24:51 &#43;0800</pubDate>
     <author>作者</author>
