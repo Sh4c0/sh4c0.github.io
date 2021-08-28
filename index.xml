@@ -4,22 +4,29 @@
         <link>https://sh4c0.github.io/</link>
         <description>ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Wed, 25 Aug 2021 22:33:14 &#43;0800</lastBuildDate>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Sat, 28 Aug 2021 21:43:18 &#43;0800</lastBuildDate>
             <atom:link href="https://sh4c0.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Cf1562E Rescue Niwen!</title>
+    <link>https://sh4c0.github.io/posts/cf1562e/</link>
+    <pubDate>Sat, 28 Aug 2021 21:43:18 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/cf1562e/</guid>
+    <description><![CDATA[传送门 题意 将一个字符串按如下形式拆分为若干个串： 以$abcd$为例，拆分为$a,ab,abc,abcd,b,bc,bcd,c,cd,d$ 输出]]></description>
+</item><item>
     <title>POJ3463 Sightseeing</title>
     <link>https://sh4c0.github.io/posts/poj3463/</link>
     <pubDate>Wed, 25 Aug 2021 22:33:14 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/poj3463/</guid>
-    <description><![CDATA[传送门 题意 给一张图，求最短路个数以及与最短路相差为1的次短路的个数之和 思路 最短路计数和次短路计数的模板题，将次短路丢入优先队列中即可。 代码 /**]]></description>
+    <description><![CDATA[传送门 题意 给一张图，求到终点最短路个数以及与最短路相差为1的次短路的个数之和 思路 最短路计数和次短路计数的模板题，将次短路丢入优先队列中即可。]]></description>
 </item><item>
     <title>2021CCPC东北四省赛C Vertex Deletion</title>
     <link>https://sh4c0.github.io/posts/gym103145c/</link>
     <pubDate>Thu, 12 Aug 2021 19:24:21 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/gym103145c/</guid>
-    <description><![CDATA[传送门 题意 问有多少种删点方案使得剩下的点至少与一个点相连 思路 定义dp[i][0/1/2]代表对于节点i为根的子树，将节点i删去、保留节点i且]]></description>
+    <description><![CDATA[传送门 题意 问有多少种删点方案使得剩下的点至少与一个点相连 思路 定义$dp[i][0/1/2]$代表对于节点i为根的子树，将节点$i$删去、保留]]></description>
 </item><item>
     <title>Codeforces1454F Array Partition</title>
     <link>https://sh4c0.github.io/posts/cf1454f/</link>
