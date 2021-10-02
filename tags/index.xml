@@ -4,12 +4,26 @@
         <link>https://sh4c0.github.io/tags/</link>
         <description>Tags - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Sat, 28 Aug 2021 23:05:32 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Sat, 02 Oct 2021 16:13:17 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>codeforces</title>
     <link>https://sh4c0.github.io/tags/codeforces/</link>
-    <pubDate>Sat, 28 Aug 2021 23:05:32 &#43;0800</pubDate>
+    <pubDate>Sat, 02 Oct 2021 16:13:17 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/codeforces/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>EDU</title>
+    <link>https://sh4c0.github.io/tags/edu/</link>
+    <pubDate>Sat, 02 Oct 2021 16:13:17 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/edu/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>suffix array</title>
+    <link>https://sh4c0.github.io/tags/suffix-array/</link>
+    <pubDate>Sat, 02 Oct 2021 16:13:17 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/suffix-array/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>KMP</title>
@@ -24,13 +38,6 @@
     <pubDate>Sat, 28 Aug 2021 21:43:18 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/sparse-table/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>suffix array</title>
-    <link>https://sh4c0.github.io/tags/suffix-array/</link>
-    <pubDate>Sat, 28 Aug 2021 21:43:18 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/suffix-array/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>dijkstra</title>
@@ -66,13 +73,6 @@
     <pubDate>Thu, 12 Aug 2021 19:24:21 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/tree/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title> binary search</title>
-    <link>https://sh4c0.github.io/tags/binary-search/</link>
-    <pubDate>Tue, 27 Jul 2021 17:13:35 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/binary-search/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
