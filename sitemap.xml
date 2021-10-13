@@ -2,13 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://sh4c0.github.io/tags/codeforces/</loc><lastmod>2021-10-02T16:13:17&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/tags/codeforces/</loc><lastmod>2021-10-13T21:00:02&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/posts/cf1042d/</loc><lastmod>2021-10-13T21:00:02&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/posts/</loc><lastmod>2021-10-13T21:00:02&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/tags/segment-tree/</loc><lastmod>2021-10-13T21:00:02&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/</loc><lastmod>2021-10-13T21:00:02&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/tags/</loc><lastmod>2021-10-13T21:00:02&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/edusuffixarray/</loc><lastmod>2021-10-02T16:13:17&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/edu/</loc><lastmod>2021-10-02T16:13:17&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/posts/</loc><lastmod>2021-10-02T16:13:17&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/</loc><lastmod>2021-10-02T16:13:17&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/suffix-array/</loc><lastmod>2021-10-02T16:13:17&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/tags/</loc><lastmod>2021-10-02T16:13:17&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/cf126b/</loc><lastmod>2021-08-28T23:05:32&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/kmp/</loc><lastmod>2021-08-28T23:05:32&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/cf1562e/</loc><lastmod>2021-08-28T21:43:18&#43;08:00</lastmod></url><url>
@@ -22,7 +24,6 @@
             <loc>https://sh4c0.github.io/tags/tree/</loc><lastmod>2021-08-12T19:24:21&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/binary-search/</loc><lastmod>2021-07-27T17:13:35&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/cf1454f/</loc><lastmod>2021-07-27T17:13:35&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/tags/segment-tree/</loc><lastmod>2021-07-27T17:13:35&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/cf1454e/</loc><lastmod>2021-07-26T20:34:04&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/dfs/</loc><lastmod>2021-07-26T20:34:04&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/cf1385e/</loc><lastmod>2021-07-21T19:43:33&#43;08:00</lastmod></url><url>

@@ -4,9 +4,16 @@
         <link>https://sh4c0.github.io/</link>
         <description>ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Sat, 02 Oct 2021 16:13:17 &#43;0800</lastBuildDate>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Wed, 13 Oct 2021 21:00:02 &#43;0800</lastBuildDate>
             <atom:link href="https://sh4c0.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Codeforces 1042D Petya and Array</title>
+    <link>https://sh4c0.github.io/posts/cf1042d/</link>
+    <pubDate>Wed, 13 Oct 2021 21:00:02 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/cf1042d/</guid>
+    <description><![CDATA[传送门 题意 输出一个数组中有多少连续的子序列之和小于$m$ 思路 先计算出前缀和，显然我们需要找出满足$sum_r-sum_l&lt;t$的两个下]]></description>
+</item><item>
     <title>Codeforces Edu SuffixArray</title>
     <link>https://sh4c0.github.io/posts/edusuffixarray/</link>
     <pubDate>Sat, 02 Oct 2021 16:13:17 &#43;0800</pubDate>
