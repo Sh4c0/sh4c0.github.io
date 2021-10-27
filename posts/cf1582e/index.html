@@ -5,27 +5,27 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="robots" content="noodp" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
-        <title>Codeforces 1602D Frog Traveler - ShacozzZ&#39;s Blog</title><meta name="Description" content=""><meta property="og:title" content="Codeforces 1602D Frog Traveler" />
-<meta property="og:description" content="传送门 题意 一只青蛙在井底初始位置为$n$，想跳到地面（地面为$0$），当青蛙在$i$时，可以向上跳$0～a[i]$任意高度，当青蛙跳到位置$" />
+        <title>Codeforces 1582E Pchelyonok and Segments - ShacozzZ&#39;s Blog</title><meta name="Description" content=""><meta property="og:title" content="Codeforces 1582E Pchelyonok and Segments" />
+<meta property="og:description" content="传送门 题意 将一个数组划分成$k$个子段，对于第$i$个子段和第$i&#43;1$个子段，需要满足子段$i$的元素个数为$n-i&#43;1$，子段$n-(i" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://sh4c0.github.io/posts/cf1602d/" />
-<meta property="article:published_time" content="2021-10-26T17:23:59+08:00" />
-<meta property="article:modified_time" content="2021-10-26T17:23:59+08:00" />
+<meta property="og:url" content="https://sh4c0.github.io/posts/cf1582e/" />
+<meta property="article:published_time" content="2021-10-27T15:47:47+08:00" />
+<meta property="article:modified_time" content="2021-10-27T15:47:47+08:00" />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Codeforces 1602D Frog Traveler"/>
-<meta name="twitter:description" content="传送门 题意 一只青蛙在井底初始位置为$n$，想跳到地面（地面为$0$），当青蛙在$i$时，可以向上跳$0～a[i]$任意高度，当青蛙跳到位置$"/>
+<meta name="twitter:title" content="Codeforces 1582E Pchelyonok and Segments"/>
+<meta name="twitter:description" content="传送门 题意 将一个数组划分成$k$个子段，对于第$i$个子段和第$i&#43;1$个子段，需要满足子段$i$的元素个数为$n-i&#43;1$，子段$n-(i"/>
 <meta name="application-name" content="ShacozzZ&#39;s Blog">
-<meta name="apple-mobile-web-app-title" content="ShacozzZ&#39;s Blog"><link rel="icon" href="/images/logo.svg"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://sh4c0.github.io/posts/cf1602d/" /><link rel="prev" href="https://sh4c0.github.io/posts/cf438d/" /><link rel="next" href="https://sh4c0.github.io/posts/cf1582e/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
+<meta name="apple-mobile-web-app-title" content="ShacozzZ&#39;s Blog"><link rel="icon" href="/images/logo.svg"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://sh4c0.github.io/posts/cf1582e/" /><link rel="prev" href="https://sh4c0.github.io/posts/cf1602d/" /><link rel="stylesheet" href="/lib/normalize/normalize.min.css"><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/lib/fontawesome-free/all.min.css"><link rel="stylesheet" href="/lib/animate/animate.min.css"><script type="application/ld+json">
     {
         "@context": "http://schema.org",
         "@type": "BlogPosting",
-        "headline": "Codeforces 1602D Frog Traveler",
+        "headline": "Codeforces 1582E Pchelyonok and Segments",
         "inLanguage": "zh-CN",
         "mainEntityOfPage": {
             "@type": "WebPage",
-            "@id": "https:\/\/sh4c0.github.io\/posts\/cf1602d\/"
-        },"genre": "posts","keywords": "codeforces, bfs","wordcount":  588 ,
-        "url": "https:\/\/sh4c0.github.io\/posts\/cf1602d\/","datePublished": "2021-10-26T17:23:59+08:00","dateModified": "2021-10-26T17:23:59+08:00","publisher": {
+            "@id": "https:\/\/sh4c0.github.io\/posts\/cf1582e\/"
+        },"genre": "posts","keywords": "codeforces, dp","wordcount":  447 ,
+        "url": "https:\/\/sh4c0.github.io\/posts\/cf1582e\/","datePublished": "2021-10-27T15:47:47+08:00","dateModified": "2021-10-27T15:47:47+08:00","publisher": {
             "@type": "Organization",
             "name": "ShacozzZ"},"author": {
                 "@type": "Person",
@@ -113,10 +113,10 @@
                 <div class="container"><div class="toc" id="toc-auto">
             <h2 class="toc-title">目录</h2>
             <div class="toc-content" id="toc-content-auto"></div>
-        </div><article class="page single"><h1 class="single-title animated flipInX">Codeforces 1602D Frog Traveler</h1><div class="post-meta">
+        </div><article class="page single"><h1 class="single-title animated flipInX">Codeforces 1582E Pchelyonok and Segments</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>ShacozzZ</a></span>&nbsp;<span class="post-category">收录于 <a href="/categories/2021/10/"><i class="far fa-folder fa-fw"></i>2021/10</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-10-26">2021-10-26</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 588 字&nbsp;
-                <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 2 分钟&nbsp;<span id="/posts/cf1602d/" class="leancloud_visitors" data-flag-title="Codeforces 1602D Frog Traveler">
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2021-10-27">2021-10-27</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;约 447 字&nbsp;
+                <i class="far fa-clock fa-fw"></i>&nbsp;预计阅读 1 分钟&nbsp;<span id="/posts/cf1582e/" class="leancloud_visitors" data-flag-title="Codeforces 1582E Pchelyonok and Segments">
                         <i class="far fa-eye fa-fw"></i>&nbsp;<span class=leancloud-visitors-count></span>&nbsp;次阅读
                     </span>&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="">
@@ -131,92 +131,81 @@
         <li><a href="#题意">题意</a></li>
         <li><a href="#思路">思路</a></li>
         <li><a href="#代码">代码</a></li>
-        <li><a href="#总结">总结</a></li>
+        <li><a href="#小结">小结</a></li>
       </ul>
     </li>
   </ul>
 </nav></div>
-            </div><div class="content" id="content"><p><a href="https://codeforces.com/contest/1602/problem/D" target="_blank" rel="noopener noreffer">传送门</a></p>
+            </div><div class="content" id="content"><p><a href="https://codeforces.com/contest/1582/problem/E" target="_blank" rel="noopener noreffer">传送门</a></p>
 <h3 id="题意">题意</h3>
-<p>一只青蛙在井底初始位置为$n$，想跳到地面（地面为$0$），当青蛙在$i$时，可以向上跳$0～a[i]$任意高度，当青蛙跳到位置$j$时，会向下滑$b[i]$，求跳至地面最少需要几步，并输出路径</p>
+<p>将一个数组划分成$k$个子段，对于第$i$个子段和第$i+1$个子段，需要满足子段$i$的元素个数为$n-i+1$，子段$n-(i+1)+1$的元素个数为$i+1$，并且子段$i$的元素之和小于子段$i+1$的元素之和，输出$k$的最大值</p>
 <h3 id="思路">思路</h3>
-<p>显然当青蛙想去往位置$j$时，其必须去到位置$i$，位置$i$满足$i+b[i]=j$，可以建立两个数组，$hua[i]=j$，$yuan[j]=i$，在bfs中我们只考虑最后滑到的位置</p>
-<p>首先我们考虑裸bfs，对于位置$i$可以到达$hua[i-a[i],i-a[i]+1&hellip;i-1,i]$，由于边权相等，所以最短路中每一个点最多只会被访问一次</p>
-<p>但是当我们以这种方式bfs时，对于位置$i$和位置$j$，$hua[max(i-a[i],j-a[j])&hellip;min(i,j)]$会被重复判断，因此我们在bfs的过程中记录位置$r$为我们以经访问过的最小的访问过的值，即对于位置$i$我们只需要判断$hua[i-a[i],r]$，然后更新$r=min(r,i-a[i]-1)$</p>
+<p>首先不难看出长度为$n$的数组，$k$的取值满足$(k+1)*k/2\leqslant n$</p>
+<p>我们将整个数组倒置，此时第$i$个子段的长度为$i$，同时预处理出前缀和$pre$</p>
+<p>我们令$dp[i][j]$代表前$i$个元素中，子段数量为$k$的情况中的第$k$个子段的最大值，如果不可能则为$0$</p>
+<p>所以状态转移方程如下：</p>
+<p>$dp[i][j]=dp[i-1][j]$</p>
+<p>当$pre[i]-pre[i-j]$或者$j=1$时,$dp[i][j]=max(dp[i][j],pre[i]-pre[i-j])$</p>
 <h3 id="代码">代码</h3>
 <div class="highlight"><pre class="chroma"><code class="language-c++" data-lang="c++"><span class="cp">#include</span><span class="cpf">&lt;bits/stdc++.h&gt;</span><span class="cp">
 </span><span class="cp"></span><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
-<span class="k">const</span> <span class="kt">int</span> <span class="n">maxn</span><span class="o">=</span><span class="mf">3e5</span><span class="o">+</span><span class="mi">5</span><span class="p">;</span>
+<span class="k">typedef</span> <span class="kt">long</span> <span class="kt">long</span> <span class="n">ll</span><span class="p">;</span>
+<span class="k">const</span> <span class="kt">int</span> <span class="n">maxn</span><span class="o">=</span><span class="mf">1e5</span><span class="o">+</span><span class="mi">5</span><span class="p">;</span>
+<span class="k">const</span> <span class="kt">int</span> <span class="n">maxm</span><span class="o">=</span><span class="mi">450</span><span class="p">;</span>
 
 <span class="kt">int</span> <span class="n">n</span><span class="p">,</span><span class="n">m</span><span class="p">;</span>
-<span class="kt">int</span> <span class="n">a</span><span class="p">[</span><span class="n">maxn</span><span class="p">],</span><span class="n">b</span><span class="p">[</span><span class="n">maxn</span><span class="p">];</span>
-<span class="kt">int</span> <span class="n">fa</span><span class="p">[</span><span class="n">maxn</span><span class="p">];</span>
-<span class="kt">int</span> <span class="n">hua</span><span class="p">[</span><span class="n">maxn</span><span class="p">];</span>
-<span class="kt">int</span> <span class="n">yuan</span><span class="p">[</span><span class="n">maxn</span><span class="p">];</span>
-<span class="kt">bool</span> <span class="n">vis</span><span class="p">[</span><span class="n">maxn</span><span class="p">];</span>
-<span class="n">vector</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span> <span class="n">ans</span><span class="p">;</span>
+<span class="kt">int</span> <span class="n">a</span><span class="p">[</span><span class="n">maxn</span><span class="p">];</span>
+<span class="n">ll</span> <span class="n">pre</span><span class="p">[</span><span class="n">maxn</span><span class="p">],</span><span class="n">st</span><span class="p">[</span><span class="n">maxn</span><span class="p">];</span>
+<span class="n">ll</span> <span class="n">dp</span><span class="p">[</span><span class="n">maxn</span><span class="p">][</span><span class="n">maxm</span><span class="p">];</span>
+
+<span class="kt">void</span> <span class="nf">init</span><span class="p">(){</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;=</span><span class="mi">500</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="n">st</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">=</span><span class="n">st</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">+</span><span class="n">i</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="n">ll</span> <span class="nf">sub</span><span class="p">(</span><span class="kt">int</span> <span class="n">l</span><span class="p">,</span><span class="kt">int</span> <span class="n">r</span><span class="p">){</span>
+    <span class="k">return</span> <span class="n">pre</span><span class="p">[</span><span class="n">r</span><span class="p">]</span><span class="o">-</span><span class="n">pre</span><span class="p">[</span><span class="n">l</span><span class="o">-</span><span class="mi">1</span><span class="p">];</span>
+<span class="p">}</span>
 
 <span class="kr">inline</span> <span class="kt">void</span> <span class="nf">solve</span><span class="p">(){</span>
-    <span class="n">scanf</span><span class="p">(</span><span class="s">&#34;%d&#34;</span><span class="p">,</span><span class="o">&amp;</span><span class="n">n</span><span class="p">);</span>
-    <span class="n">n</span><span class="o">++</span><span class="p">;</span>
-    <span class="n">hua</span><span class="p">[</span><span class="n">n</span><span class="p">]</span><span class="o">=</span><span class="n">n</span><span class="p">;</span>
-    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">2</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;=</span><span class="n">n</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="n">scanf</span><span class="p">(</span><span class="s">&#34;%d&#34;</span><span class="p">,</span><span class="o">&amp;</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">]);</span>
-    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">2</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;=</span><span class="n">n</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="n">scanf</span><span class="p">(</span><span class="s">&#34;%d&#34;</span><span class="p">,</span><span class="o">&amp;</span><span class="n">b</span><span class="p">[</span><span class="n">i</span><span class="p">]);</span>
-    <span class="n">queue</span><span class="o">&lt;</span><span class="kt">int</span><span class="o">&gt;</span> <span class="n">q</span><span class="p">;</span>
-    <span class="n">fa</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">=-</span><span class="mi">1</span><span class="p">;</span>
-    <span class="n">fa</span><span class="p">[</span><span class="n">n</span><span class="p">]</span><span class="o">=</span><span class="n">n</span><span class="p">;</span>
-    <span class="n">yuan</span><span class="p">[</span><span class="n">n</span><span class="p">]</span><span class="o">=</span><span class="n">n</span><span class="p">;</span>
-    <span class="n">hua</span><span class="p">[</span><span class="n">n</span><span class="p">]</span><span class="o">=</span><span class="n">n</span><span class="p">;</span>
-    <span class="n">vis</span><span class="p">[</span><span class="n">n</span><span class="p">]</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span>
-    <span class="n">q</span><span class="p">.</span><span class="n">push</span><span class="p">(</span><span class="n">n</span><span class="p">);</span>
-    <span class="kt">int</span> <span class="n">r</span><span class="o">=</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="p">;</span>
-    <span class="k">while</span><span class="p">(</span><span class="n">q</span><span class="p">.</span><span class="n">size</span><span class="p">()){</span>
-        <span class="kt">int</span> <span class="n">t</span><span class="o">=</span><span class="n">q</span><span class="p">.</span><span class="n">front</span><span class="p">();</span>
-        <span class="n">q</span><span class="p">.</span><span class="n">pop</span><span class="p">();</span>
-        <span class="kt">int</span> <span class="n">l</span><span class="o">=</span><span class="n">t</span><span class="o">-</span><span class="n">a</span><span class="p">[</span><span class="n">t</span><span class="p">];</span>
-        <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="n">l</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;=</span><span class="n">r</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">){</span>
-            <span class="kt">int</span> <span class="n">p</span><span class="o">=</span><span class="n">i</span><span class="o">+</span><span class="n">b</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
-            <span class="k">if</span><span class="p">(</span><span class="n">vis</span><span class="p">[</span><span class="n">p</span><span class="p">])</span><span class="k">continue</span><span class="p">;</span>
-            <span class="n">fa</span><span class="p">[</span><span class="n">p</span><span class="p">]</span><span class="o">=</span><span class="n">t</span><span class="p">;</span>
-            <span class="n">hua</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">=</span><span class="n">p</span><span class="p">;</span>
-            <span class="n">yuan</span><span class="p">[</span><span class="n">p</span><span class="p">]</span><span class="o">=</span><span class="n">i</span><span class="p">;</span>
-            <span class="n">vis</span><span class="p">[</span><span class="n">p</span><span class="p">]</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span>
-            <span class="n">q</span><span class="p">.</span><span class="n">push</span><span class="p">(</span><span class="n">p</span><span class="p">);</span>
+    <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">n</span><span class="p">;</span>
+    <span class="n">m</span><span class="o">=</span> <span class="n">upper_bound</span><span class="p">(</span><span class="n">st</span><span class="p">,</span><span class="n">st</span><span class="o">+</span><span class="mi">500</span><span class="p">,</span><span class="n">n</span><span class="p">)</span><span class="o">-</span><span class="n">st</span><span class="o">-</span><span class="mi">1</span><span class="p">;</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="n">n</span><span class="p">;</span><span class="n">i</span><span class="o">&gt;</span><span class="mi">0</span><span class="p">;</span><span class="n">i</span><span class="o">--</span><span class="p">)</span><span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;=</span><span class="n">n</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">)</span><span class="n">pre</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">=</span><span class="n">pre</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">+</span><span class="n">a</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span><span class="n">i</span><span class="o">&lt;=</span><span class="n">n</span><span class="p">;</span><span class="n">i</span><span class="o">++</span><span class="p">){</span>
+        <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">j</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span><span class="n">j</span><span class="o">&lt;=</span><span class="n">m</span><span class="p">;</span><span class="n">j</span><span class="o">++</span><span class="p">){</span>
+            <span class="k">if</span><span class="p">(</span><span class="n">i</span><span class="o">&lt;</span><span class="n">st</span><span class="p">[</span><span class="n">j</span><span class="p">])</span><span class="n">dp</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span><span class="o">=</span><span class="mi">0</span><span class="p">;</span>
+            <span class="k">else</span><span class="p">{</span>
+                <span class="n">dp</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span><span class="o">=</span><span class="n">dp</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">][</span><span class="n">j</span><span class="p">];</span>
+                <span class="k">if</span><span class="p">(</span><span class="n">j</span><span class="o">==</span><span class="mi">1</span><span class="o">||</span><span class="n">sub</span><span class="p">(</span><span class="n">i</span><span class="o">-</span><span class="n">j</span><span class="o">+</span><span class="mi">1</span><span class="p">,</span><span class="n">i</span><span class="p">)</span><span class="o">&lt;</span><span class="n">dp</span><span class="p">[</span><span class="n">i</span><span class="o">-</span><span class="n">j</span><span class="p">][</span><span class="n">j</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span><span class="n">dp</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">]</span><span class="o">=</span><span class="n">max</span><span class="p">(</span><span class="n">dp</span><span class="p">[</span><span class="n">i</span><span class="p">][</span><span class="n">j</span><span class="p">],</span><span class="n">sub</span><span class="p">(</span><span class="n">i</span><span class="o">-</span><span class="n">j</span><span class="o">+</span><span class="mi">1</span><span class="p">,</span><span class="n">i</span><span class="p">));</span>
+            <span class="p">}</span>
         <span class="p">}</span>
-        <span class="k">if</span><span class="p">(</span><span class="n">l</span><span class="o">&lt;=</span><span class="n">r</span><span class="p">)</span><span class="n">r</span><span class="o">=</span><span class="n">l</span><span class="o">-</span><span class="mi">1</span><span class="p">;</span>
     <span class="p">}</span>
-    <span class="k">if</span><span class="p">(</span><span class="n">fa</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">==-</span><span class="mi">1</span><span class="p">){</span>
-        <span class="n">puts</span><span class="p">(</span><span class="s">&#34;-1&#34;</span><span class="p">);</span>
-        <span class="k">return</span> <span class="p">;</span>
+    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="n">m</span><span class="p">;</span><span class="n">i</span><span class="o">&gt;</span><span class="mi">0</span><span class="p">;</span><span class="n">i</span><span class="o">--</span><span class="p">){</span>
+        <span class="k">if</span><span class="p">(</span><span class="n">dp</span><span class="p">[</span><span class="n">n</span><span class="p">][</span><span class="n">i</span><span class="p">]</span><span class="o">!=</span><span class="mi">0</span><span class="p">){</span>
+            <span class="n">cout</span><span class="o">&lt;&lt;</span><span class="n">i</span><span class="o">&lt;&lt;</span><span class="n">endl</span><span class="p">;</span>
+            <span class="k">return</span> <span class="p">;</span>
+        <span class="p">}</span>
     <span class="p">}</span>
-    <span class="kt">int</span> <span class="n">p</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span>
-    <span class="k">while</span><span class="p">(</span><span class="n">p</span><span class="o">!=</span><span class="n">n</span><span class="p">){</span>
-        <span class="n">ans</span><span class="p">.</span><span class="n">push_back</span><span class="p">(</span><span class="n">p</span><span class="p">);</span>
-        <span class="n">p</span><span class="o">=</span><span class="n">hua</span><span class="p">[</span><span class="n">p</span><span class="p">];</span>
-        <span class="n">p</span><span class="o">=</span><span class="n">fa</span><span class="p">[</span><span class="n">p</span><span class="p">];</span>
-        <span class="n">p</span><span class="o">=</span><span class="n">yuan</span><span class="p">[</span><span class="n">p</span><span class="p">];</span>
-    <span class="p">}</span>
-    <span class="n">printf</span><span class="p">(</span><span class="s">&#34;%d</span><span class="se">\n</span><span class="s">&#34;</span><span class="p">,(</span><span class="kt">int</span><span class="p">)</span><span class="n">ans</span><span class="p">.</span><span class="n">size</span><span class="p">());</span>
-    <span class="k">for</span><span class="p">(</span><span class="kt">int</span> <span class="n">i</span><span class="o">=</span><span class="p">(</span><span class="kt">int</span><span class="p">)</span><span class="n">ans</span><span class="p">.</span><span class="n">size</span><span class="p">()</span><span class="o">-</span><span class="mi">1</span><span class="p">;</span><span class="n">i</span><span class="o">&gt;=</span><span class="mi">0</span><span class="p">;</span><span class="n">i</span><span class="o">--</span><span class="p">)</span><span class="n">printf</span><span class="p">(</span><span class="s">&#34;%d &#34;</span><span class="p">,</span><span class="n">ans</span><span class="p">[</span><span class="n">i</span><span class="p">]</span><span class="o">-</span><span class="mi">1</span><span class="p">);</span>
-    <span class="n">puts</span><span class="p">(</span><span class="s">&#34;&#34;</span><span class="p">);</span>
 <span class="p">}</span>
 
 <span class="kt">int</span> <span class="nf">main</span><span class="p">(){</span>
     <span class="n">ios</span><span class="o">::</span><span class="n">sync_with_stdio</span><span class="p">(</span><span class="nb">false</span><span class="p">);</span>
     <span class="n">cin</span><span class="p">.</span><span class="n">tie</span><span class="p">(</span><span class="mi">0</span><span class="p">);</span>
     <span class="kt">int</span> <span class="n">__</span><span class="o">=</span><span class="mi">1</span><span class="p">;</span>
+    <span class="n">cin</span><span class="o">&gt;&gt;</span><span class="n">__</span><span class="p">;</span>
+    <span class="n">init</span><span class="p">();</span>
     <span class="k">while</span><span class="p">(</span><span class="n">__</span><span class="o">--</span><span class="p">){</span>
         <span class="n">solve</span><span class="p">();</span>
     <span class="p">}</span>
     <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
 <span class="p">}</span>
-</code></pre></div><h3 id="总结">总结</h3>
-<p>很简单的题，但是打比赛的时候一度想到线段树优化建图，还是没有更多的从剪枝、思维的角度想问题</p>
+</code></pre></div><h3 id="小结">小结</h3>
+<p>dp苦手，大大小小的bug改了一天</p>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
             <div class="post-info-mod">
-                <span>更新于 2021-10-26</span>
+                <span>更新于 2021-10-27</span>
             </div>
             <div class="post-info-license"></div>
         </div>
@@ -229,14 +218,13 @@
     </div>
 
     <div class="post-info-more">
-        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/codeforces/">codeforces</a>,&nbsp;<a href="/tags/bfs/">bfs</a></section>
+        <section class="post-tags"><i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/codeforces/">codeforces</a>,&nbsp;<a href="/tags/dp/">dp</a></section>
         <section>
             <span><a href="javascript:void(0);" onclick="window.history.back();">返回</a></span>&nbsp;|&nbsp;<span><a href="/">主页</a></span>
         </section>
     </div>
 
-    <div class="post-nav"><a href="/posts/cf438d/" class="prev" rel="prev" title="Codeforces 438D The Child and Sequence"><i class="fas fa-angle-left fa-fw"></i>Codeforces 438D The Child and Sequence</a>
-            <a href="/posts/cf1582e/" class="next" rel="next" title="Codeforces 1582E Pchelyonok and Segments">Codeforces 1582E Pchelyonok and Segments<i class="fas fa-angle-right fa-fw"></i></a></div>
+    <div class="post-nav"><a href="/posts/cf1602d/" class="prev" rel="prev" title="Codeforces 1602D Frog Traveler"><i class="fas fa-angle-left fa-fw"></i>Codeforces 1602D Frog Traveler</a></div>
 </div>
 <div id="comments"><div id="valine" class="comment"></div><noscript>
                 Please enable JavaScript to view the comments powered by <a href="https://valine.js.org/">Valine</a>.
