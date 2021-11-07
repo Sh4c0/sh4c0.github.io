@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>plan - 标签 - ShacozzZ&#39;s Blog</title>
+        <link>https://sh4c0.github.io/tags/plan/</link>
+        <description>plan - 标签 - ShacozzZ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 08 Nov 2021 00:02:16 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/plan/" rel="self" type="application/rss+xml" /><item>
+    <title>PLAN 2021.11.8-2021.11.14</title>
+    <link>https://sh4c0.github.io/posts/plan1/</link>
+    <pubDate>Mon, 08 Nov 2021 00:02:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/plan1/</guid>
+    <description><![CDATA[计划 树套树初步学习 掌握AC自动机上DP、fail树 树链剖分初步学习 Splay收尾 看y总Linux基础课1 看y总Django框架课1 西瓜书前五]]></description>
+</item></channel>
+</rss>

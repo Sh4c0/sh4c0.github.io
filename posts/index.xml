@@ -4,7 +4,14 @@
         <link>https://sh4c0.github.io/posts/</link>
         <description>所有文章 | ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Wed, 27 Oct 2021 15:47:47 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 08 Nov 2021 00:02:16 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>PLAN 2021.11.8-2021.11.14</title>
+    <link>https://sh4c0.github.io/posts/plan1/</link>
+    <pubDate>Mon, 08 Nov 2021 00:02:16 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/plan1/</guid>
+    <description><![CDATA[计划 树套树初步学习 掌握AC自动机上DP、fail树 树链剖分初步学习 Splay收尾 看y总Linux基础课1 看y总Django框架课1 西瓜书前五]]></description>
+</item><item>
     <title>Codeforces 1582E Pchelyonok and Segments</title>
     <link>https://sh4c0.github.io/posts/cf1582e/</link>
     <pubDate>Wed, 27 Oct 2021 15:47:47 &#43;0800</pubDate>
@@ -67,12 +74,5 @@
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/gym103145c/</guid>
     <description><![CDATA[传送门 题意 问有多少种删点方案使得剩下的点至少与一个点相连 思路 定义$dp[i][0/1/2]$代表对于节点i为根的子树，将节点$i$删去、保留]]></description>
-</item><item>
-    <title>Codeforces 1454F Array Partition</title>
-    <link>https://sh4c0.github.io/posts/cf1454f/</link>
-    <pubDate>Tue, 27 Jul 2021 17:13:35 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/cf1454f/</guid>
-    <description><![CDATA[传送门 题意 给一个数组，分割成三个区间，使得左区间的最大值等于中间区间的最小值等于右区间的最大值 思路 首先用线段树维护区间的最大值最小值不难想到]]></description>
 </item></channel>
 </rss>
