@@ -5,6 +5,20 @@
         <description>2021/11 - 分类 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
             <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><atom:link href="https://sh4c0.github.io/categories/2021/11/" rel="self" type="application/rss+xml" /><item>
+    <title>2018ICPC区域赛沈阳站 E The Kouga Ninja Scrolls</title>
+    <link>https://sh4c0.github.io/posts/gym101955e/</link>
+    <pubDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/gym101955e/</guid>
+    <description><![CDATA[传送门 题意 给出$n$个忍者，每个忍者属于帮派$c_i$，位置$(x_i,y_i)$，满足以下操作 将忍者$k$的位置移至$(x_k+x,y_k]]></description>
+</item><item>
+    <title>2018ICPC区域赛沈阳站 G Best ACMer Solves the Hardest Problem</title>
+    <link>https://sh4c0.github.io/posts/gym101955g/</link>
+    <pubDate>Tue, 16 Nov 2021 22:08:04 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/gym101955g/</guid>
+    <description><![CDATA[传送门 题意 给一个二维平面内有$n$个点，满足以下操作： 在$(x,y)$处添加一个点，点权为$w$ 将$(x,y)$处的点删除 将所有与$(x,y]]></description>
+</item><item>
     <title>Acwing 1063 永无乡</title>
     <link>https://sh4c0.github.io/posts/acwing1063/</link>
     <pubDate>Tue, 09 Nov 2021 21:46:50 &#43;0800</pubDate>

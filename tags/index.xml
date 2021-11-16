@@ -4,7 +4,35 @@
         <link>https://sh4c0.github.io/tags/</link>
         <description>Tags - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 09 Nov 2021 21:46:50 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Chebyshev distance</title>
+    <link>https://sh4c0.github.io/tags/chebyshev-distance/</link>
+    <pubDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/chebyshev-distance/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Manhattan distance</title>
+    <link>https://sh4c0.github.io/tags/manhattan-distance/</link>
+    <pubDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/manhattan-distance/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>segment tree</title>
+    <link>https://sh4c0.github.io/tags/segment-tree/</link>
+    <pubDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/segment-tree/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>brute force</title>
+    <link>https://sh4c0.github.io/tags/brute-force/</link>
+    <pubDate>Tue, 16 Nov 2021 22:08:04 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/brute-force/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>acwing</title>
     <link>https://sh4c0.github.io/tags/acwing/</link>
     <pubDate>Tue, 09 Nov 2021 21:46:50 &#43;0800</pubDate>
@@ -45,34 +73,6 @@
     <pubDate>Tue, 26 Oct 2021 17:23:59 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/bfs/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>segment tree</title>
-    <link>https://sh4c0.github.io/tags/segment-tree/</link>
-    <pubDate>Thu, 21 Oct 2021 16:31:02 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/segment-tree/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>EDU</title>
-    <link>https://sh4c0.github.io/tags/edu/</link>
-    <pubDate>Sat, 02 Oct 2021 16:13:17 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/edu/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>suffix array</title>
-    <link>https://sh4c0.github.io/tags/suffix-array/</link>
-    <pubDate>Sat, 02 Oct 2021 16:13:17 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/suffix-array/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>KMP</title>
-    <link>https://sh4c0.github.io/tags/kmp/</link>
-    <pubDate>Sat, 28 Aug 2021 23:05:32 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/kmp/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

@@ -891,7 +891,7 @@
 <p>对于后缀$i$和后缀$j$这对后缀的贡献为$lcp(i,j)$，因此答案为$\sum_{i=1}^n \sum_{j=i}^nlcp(i,j)$</p>
 <p>而$lcp(i,j)$本质为$min{height[i+1&hellip;j]}$</p>
 <p>因此问题变成了求height数组的子数组最小值之和，用单调栈和dp优化这个过程</p>
-<p>构造递增的单调栈，定义$sum[i]$为以$i$为右端点的区间最小值之和，对于$i$我们找到第一个比$i$小的位置$j$，$sum[i]$由两部分构成，左端点在$j$的右侧的子数组之和为$(i-j)*height[i]$，而左端点在$j$的左侧的字数组之和为$sum[j]$，所以$sum[i]=(i-j)*height[i]+sum[j]$</p>
+<p>构造递增的单调栈，定义$sum[i]$为以$i$为右端点的区间最小值之和，对于$i$我们找到第一个比$i$小的位置$j$，$sum[i]$由两部分构成，左端点在$j$的右侧的子数组之和为$(i-j)*height[i]$，而左端点在$j$的左侧的子数组之和为$sum[j]$，所以$sum[i]=(i-j)*height[i]+sum[j]$</p>
 <h3 id="代码-8">代码</h3>
 <div class="highlight"><pre class="chroma"><code class="language-c++" data-lang="c++"><span class="cp">#include</span><span class="cpf">&lt;bits/stdc++.h&gt;</span><span class="cp">
 </span><span class="cp"></span><span class="k">using</span> <span class="k">namespace</span> <span class="n">std</span><span class="p">;</span>
