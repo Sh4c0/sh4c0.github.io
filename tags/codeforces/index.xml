@@ -4,7 +4,14 @@
         <link>https://sh4c0.github.io/tags/codeforces/</link>
         <description>codeforces - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Wed, 27 Oct 2021 15:47:47 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/codeforces/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 29 Nov 2021 21:46:58 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/codeforces/" rel="self" type="application/rss+xml" /><item>
+    <title>Codeforces 1609E William The Oblivious</title>
+    <link>https://sh4c0.github.io/posts/cf1609e/</link>
+    <pubDate>Mon, 29 Nov 2021 21:46:58 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/cf1609e/</guid>
+    <description><![CDATA[传送门 题意 给一个长度为$n$只包含$a,b,c$的字符串，对串进行$m$次操作 每一次操作为将位置$pos$处的字符改为字符$c$，并输出此时]]></description>
+</item><item>
     <title>Codeforces 1582E Pchelyonok and Segments</title>
     <link>https://sh4c0.github.io/posts/cf1582e/</link>
     <pubDate>Wed, 27 Oct 2021 15:47:47 &#43;0800</pubDate>
@@ -67,12 +74,5 @@
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1454e/</guid>
     <description><![CDATA[传送门 题意 给$n$个点$n$条边的无向图，求有多少条简单路径 思路 不难发现图为一棵树增加一条边使得树中出现了一个环，首先找出环，然后如果两个点]]></description>
-</item><item>
-    <title>Codeforces 1385E Directing Edges</title>
-    <link>https://sh4c0.github.io/posts/cf1385e/</link>
-    <pubDate>Wed, 21 Jul 2021 19:43:33 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/cf1385e/</guid>
-    <description><![CDATA[传送门 题意 给一个图包含有向边和无向边，将所有无向边改为有向边并且使图中不存在环 思路 首先删除掉所有有向边，通过拓扑排序判断是否有环，如果不存在]]></description>
 </item></channel>
 </rss>
