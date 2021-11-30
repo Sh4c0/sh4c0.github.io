@@ -4,7 +4,14 @@
         <link>https://sh4c0.github.io/tags/codeforces/</link>
         <description>codeforces - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 29 Nov 2021 21:46:58 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/codeforces/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 30 Nov 2021 21:39:36 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/codeforces/" rel="self" type="application/rss+xml" /><item>
+    <title>Codeforces 1574D The Strongest Build</title>
+    <link>https://sh4c0.github.io/posts/cf1574d/</link>
+    <pubDate>Tue, 30 Nov 2021 21:39:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/cf1574d/</guid>
+    <description><![CDATA[传送门 题意 给$n$个数组，从每个数组中选出一个数称为$build$，要求选择出的$build$的和最大并且不能选择被禁止的$build$ 思路]]></description>
+</item><item>
     <title>Codeforces 1609E William The Oblivious</title>
     <link>https://sh4c0.github.io/posts/cf1609e/</link>
     <pubDate>Mon, 29 Nov 2021 21:46:58 &#43;0800</pubDate>
@@ -67,12 +74,5 @@
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1454f/</guid>
     <description><![CDATA[传送门 题意 给一个数组，分割成三个区间，使得左区间的最大值等于中间区间的最小值等于右区间的最大值 思路 首先用线段树维护区间的最大值最小值不难想到]]></description>
-</item><item>
-    <title>Codeforces 1454E Number of Simple Paths</title>
-    <link>https://sh4c0.github.io/posts/cf1454e/</link>
-    <pubDate>Mon, 26 Jul 2021 20:34:04 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/cf1454e/</guid>
-    <description><![CDATA[传送门 题意 给$n$个点$n$条边的无向图，求有多少条简单路径 思路 不难发现图为一棵树增加一条边使得树中出现了一个环，首先找出环，然后如果两个点]]></description>
 </item></channel>
 </rss>

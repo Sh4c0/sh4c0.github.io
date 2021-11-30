@@ -4,7 +4,14 @@
         <link>https://sh4c0.github.io/posts/</link>
         <description>所有文章 | ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 29 Nov 2021 21:46:58 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 30 Nov 2021 21:39:36 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Codeforces 1574D The Strongest Build</title>
+    <link>https://sh4c0.github.io/posts/cf1574d/</link>
+    <pubDate>Tue, 30 Nov 2021 21:39:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/cf1574d/</guid>
+    <description><![CDATA[传送门 题意 给$n$个数组，从每个数组中选出一个数称为$build$，要求选择出的$build$的和最大并且不能选择被禁止的$build$ 思路]]></description>
+</item><item>
     <title>Codeforces 1609E William The Oblivious</title>
     <link>https://sh4c0.github.io/posts/cf1609e/</link>
     <pubDate>Mon, 29 Nov 2021 21:46:58 &#43;0800</pubDate>
@@ -67,12 +74,5 @@
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/edusuffixarray/</guid>
     <description><![CDATA[传送门 step1 A. Suffix Array - 1 题意 求后缀数组 思路 直接上板子 代码 #include&lt;bits/stdc++.h&gt;using namespace std; const int maxn=1e5+5; const int maxm=1e9; int n,m; int N,M,rk[maxn],sa[maxn],tp[maxn],tax[maxn],px[maxn],ht[maxn]; char s[maxn]; void ssort(){ for(int i=0;i&lt;=M;i++)tax[i]=0; for(int i=1;i&lt;=N;i++)tax[px[i]=rk[tp[i]]]++; for(int i=1;i&lt;=M;i++)tax[i]+=tax[i-1]; for(int i=N;i&gt;0;i--)sa[tax[px[i]]--]=tp[i]; } inline bool cmp(int x,int y,int w){ return tp[x]==tp[y]&amp;&amp;tp[x+w]==tp[y+w]; } void SuffixArray(){ M=300; N=strlen(s+1); memset(rk,0,sizeof rk); for(int i=1;i&lt;=N;i++)rk[i]=s[i],tp[i]=i; ssort(); for(int]]></description>
-</item><item>
-    <title>Codeforces 126B Password</title>
-    <link>https://sh4c0.github.io/posts/cf126b/</link>
-    <pubDate>Sat, 28 Aug 2021 23:05:32 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/cf126b/</guid>
-    <description><![CDATA[传送门 题意 给一个字符串$S$，找到最长的字符串$T$同时为$S$的前缀、后缀且作为非前后缀出现在字符串中 思路 利用next数组求出串$S$所有]]></description>
 </item></channel>
 </rss>

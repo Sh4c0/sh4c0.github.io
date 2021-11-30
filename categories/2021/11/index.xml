@@ -5,6 +5,13 @@
         <description>2021/11 - 分类 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
             <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><atom:link href="https://sh4c0.github.io/categories/2021/11/" rel="self" type="application/rss+xml" /><item>
+    <title>Codeforces 1574D The Strongest Build</title>
+    <link>https://sh4c0.github.io/posts/cf1574d/</link>
+    <pubDate>Tue, 30 Nov 2021 21:39:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/cf1574d/</guid>
+    <description><![CDATA[传送门 题意 给$n$个数组，从每个数组中选出一个数称为$build$，要求选择出的$build$的和最大并且不能选择被禁止的$build$ 思路]]></description>
+</item><item>
     <title>Codeforces 1609E William The Oblivious</title>
     <link>https://sh4c0.github.io/posts/cf1609e/</link>
     <pubDate>Mon, 29 Nov 2021 21:46:58 &#43;0800</pubDate>
