@@ -10,7 +10,7 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://sh4c0.github.io/" />
-<meta property="og:updated_time" content="2021-11-30T21:39:36+08:00" />
+<meta property="og:updated_time" content="2022-01-10T17:20:36+08:00" />
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="ShacozzZ&#39;s Blog"/>
 <meta name="twitter:description" content=""/>
@@ -112,6 +112,11 @@
         alt="/images/logo.svg"
         title="/images/logo.svg" /></a></div><h2 class="home-subtitle"><div id="id-1" class="typeit"></div></h2><div class="links"><a href="https://codeforces.com/profile/ShacozzZ" title="codeforces" target="_blank" rel="noopener noreffer me"><i data-svg-src="/svg/icons/codeforces.min.svg"></i></a><a href="https://github.com/Sh4c0" title="GitHub" target="_blank" rel="noopener noreffer me"><i class="fab fa-github-alt fa-fw"></i></a><a href="https://steamcommunity.com/id/shacozzz" title="Steam" target="_blank" rel="noopener noreffer me"><i class="fab fa-steam fa-fw"></i></a><a href="https://space.bilibili.com/130239939" title="bilibili" target="_blank" rel="noopener noreffer me"><i data-svg-src="/svg/icons/bilibili.min.svg"></i></a><a href="mailto:kaijiezhou@outlook.com" title="Email" rel=" me"><i class="far fa-envelope fa-fw"></i></a></div></div>
 <article class="single summary" itemscope itemtype="http://schema.org/Article"><h1 class="single-title" itemprop="name headline">
+        <a href="/posts/gym103446h/">2021ICPC区域赛上海站 H Life is a Game</a>
+    </h1><div class="post-meta"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>ShacozzZ</a></span>&nbsp;<span class="post-publish">发布于 <time datetime="2022-01-10">2022-01-10</time></span>&nbsp;<span class="post-category">收录于 <a href="/categories/2022/1/"><i class="far fa-folder fa-fw"></i>2022/1</a></span></div><div class="content">传送门 题意 $n$个点，$m$条边，每个点具有点权$a_i$，每条边具有边权$w_i$，$q$次询问 询问当起点为$x$，且具备初始能力$k$时</div><div class="post-footer">
+        <a href="/posts/gym103446h/">阅读全文</a><div class="post-tags">
+                <i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/kruskal-reconstruction-tree/">Kruskal reconstruction tree</a>,&nbsp;<a href="/tags/binary-lifting-on-tree/">binary lifting on tree</a></div></div>
+</article><article class="single summary" itemscope itemtype="http://schema.org/Article"><h1 class="single-title" itemprop="name headline">
         <a href="/posts/cf1574d/">Codeforces 1574D The Strongest Build</a>
     </h1><div class="post-meta"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>ShacozzZ</a></span>&nbsp;<span class="post-publish">发布于 <time datetime="2021-11-30">2021-11-30</time></span>&nbsp;<span class="post-category">收录于 <a href="/categories/2021/11/"><i class="far fa-folder fa-fw"></i>2021/11</a></span></div><div class="content">传送门 题意 给$n$个数组，从每个数组中选出一个数称为$build$，要求选择出的$build$的和最大并且不能选择被禁止的$build$ 思路</div><div class="post-footer">
         <a href="/posts/cf1574d/">阅读全文</a><div class="post-tags">
@@ -156,11 +161,6 @@
     </h1><div class="post-meta"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>ShacozzZ</a></span>&nbsp;<span class="post-publish">发布于 <time datetime="2021-10-13">2021-10-13</time></span>&nbsp;<span class="post-category">收录于 <a href="/categories/2021/10/"><i class="far fa-folder fa-fw"></i>2021/10</a></span></div><div class="content">传送门 题意 输出一个数组中有多少连续的子序列之和小于$m$ 思路 先计算出前缀和，显然我们需要找出满足$sum_r-sum_l&lt;t$的两个下</div><div class="post-footer">
         <a href="/posts/cf1042d/">阅读全文</a><div class="post-tags">
                 <i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/codeforces/">codeforces</a>,&nbsp;<a href="/tags/segment-tree/">segment tree</a></div></div>
-</article><article class="single summary" itemscope itemtype="http://schema.org/Article"><h1 class="single-title" itemprop="name headline">
-        <a href="/posts/edusuffixarray/">Codeforces Edu SuffixArray</a>
-    </h1><div class="post-meta"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>ShacozzZ</a></span>&nbsp;<span class="post-publish">发布于 <time datetime="2021-10-02">2021-10-02</time></span>&nbsp;<span class="post-category">收录于 <a href="/categories/2021/10/"><i class="far fa-folder fa-fw"></i>2021/10</a></span></div><div class="content">传送门 step1 A. Suffix Array - 1 题意 求后缀数组 思路 直接上板子 代码 #include&lt;bits/stdc++.h&gt;using namespace std; const int maxn=1e5+5; const int maxm=1e9; int n,m; int N,M,rk[maxn],sa[maxn],tp[maxn],tax[maxn],px[maxn],ht[maxn]; char s[maxn]; void ssort(){ for(int i=0;i&lt;=M;i++)tax[i]=0; for(int i=1;i&lt;=N;i++)tax[px[i]=rk[tp[i]]]++; for(int i=1;i&lt;=M;i++)tax[i]+=tax[i-1]; for(int i=N;i&gt;0;i--)sa[tax[px[i]]--]=tp[i]; } inline bool cmp(int x,int y,int w){ return tp[x]==tp[y]&amp;&amp;tp[x+w]==tp[y+w]; } void SuffixArray(){ M=300; N=strlen(s+1); memset(rk,0,sizeof rk); for(int i=1;i&lt;=N;i++)rk[i]=s[i],tp[i]=i; ssort(); for(int</div><div class="post-footer">
-        <a href="/posts/edusuffixarray/">阅读全文</a><div class="post-tags">
-                <i class="fas fa-tags fa-fw"></i>&nbsp;<a href="/tags/codeforces/">codeforces</a>,&nbsp;<a href="/tags/edu/">EDU</a>,&nbsp;<a href="/tags/suffix-array/">suffix array</a></div></div>
 </article><ul class="pagination"><li class="page-item active">
                     <span class="page-link">
                         <a href="/">1</a>
@@ -171,7 +171,7 @@
                     </span>
                 </li></ul></div></div>
             </main><footer class="footer">
-        <div class="footer-container"><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2021</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">ShacozzZ</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
+        <div class="footer-container"><div class="footer-line"><i class="far fa-copyright fa-fw"></i><span itemprop="copyrightYear">2021 - 2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="/" target="_blank">ShacozzZ</a></span>&nbsp;|&nbsp;<span class="license"><a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a></span></div>
         </div>
     </footer></div>
 

@@ -4,9 +4,16 @@
         <link>https://sh4c0.github.io/</link>
         <description>ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 30 Nov 2021 21:39:36 &#43;0800</lastBuildDate>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 10 Jan 2022 17:20:36 &#43;0800</lastBuildDate>
             <atom:link href="https://sh4c0.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>2021ICPC区域赛上海站 H Life is a Game</title>
+    <link>https://sh4c0.github.io/posts/gym103446h/</link>
+    <pubDate>Mon, 10 Jan 2022 17:20:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/gym103446h/</guid>
+    <description><![CDATA[传送门 题意 $n$个点，$m$条边，每个点具有点权$a_i$，每条边具有边权$w_i$，$q$次询问 询问当起点为$x$，且具备初始能力$k$时]]></description>
+</item><item>
     <title>Codeforces 1574D The Strongest Build</title>
     <link>https://sh4c0.github.io/posts/cf1574d/</link>
     <pubDate>Tue, 30 Nov 2021 21:39:36 &#43;0800</pubDate>
@@ -69,12 +76,5 @@
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1042d/</guid>
     <description><![CDATA[传送门 题意 输出一个数组中有多少连续的子序列之和小于$m$ 思路 先计算出前缀和，显然我们需要找出满足$sum_r-sum_l&lt;t$的两个下]]></description>
-</item><item>
-    <title>Codeforces Edu SuffixArray</title>
-    <link>https://sh4c0.github.io/posts/edusuffixarray/</link>
-    <pubDate>Sat, 02 Oct 2021 16:13:17 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/edusuffixarray/</guid>
-    <description><![CDATA[传送门 step1 A. Suffix Array - 1 题意 求后缀数组 思路 直接上板子 代码 #include&lt;bits/stdc++.h&gt;using namespace std; const int maxn=1e5+5; const int maxm=1e9; int n,m; int N,M,rk[maxn],sa[maxn],tp[maxn],tax[maxn],px[maxn],ht[maxn]; char s[maxn]; void ssort(){ for(int i=0;i&lt;=M;i++)tax[i]=0; for(int i=1;i&lt;=N;i++)tax[px[i]=rk[tp[i]]]++; for(int i=1;i&lt;=M;i++)tax[i]+=tax[i-1]; for(int i=N;i&gt;0;i--)sa[tax[px[i]]--]=tp[i]; } inline bool cmp(int x,int y,int w){ return tp[x]==tp[y]&amp;&amp;tp[x+w]==tp[y+w]; } void SuffixArray(){ M=300; N=strlen(s+1); memset(rk,0,sizeof rk); for(int i=1;i&lt;=N;i++)rk[i]=s[i],tp[i]=i; ssort(); for(int]]></description>
 </item></channel>
 </rss>

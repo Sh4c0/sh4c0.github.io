@@ -2,12 +2,15 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://sh4c0.github.io/posts/gym103446h/</loc><lastmod>2022-01-10T17:20:36&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/tags/binary-lifting-on-tree/</loc><lastmod>2022-01-10T17:20:36&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/tags/kruskal-reconstruction-tree/</loc><lastmod>2022-01-10T17:20:36&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/posts/</loc><lastmod>2022-01-10T17:20:36&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/</loc><lastmod>2022-01-10T17:20:36&#43;08:00</lastmod></url><url>
+            <loc>https://sh4c0.github.io/tags/</loc><lastmod>2022-01-10T17:20:36&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/bfs/</loc><lastmod>2021-11-30T21:39:36&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/codeforces/</loc><lastmod>2021-11-30T21:39:36&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/cf1574d/</loc><lastmod>2021-11-30T21:39:36&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/posts/</loc><lastmod>2021-11-30T21:39:36&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/</loc><lastmod>2021-11-30T21:39:36&#43;08:00</lastmod></url><url>
-            <loc>https://sh4c0.github.io/tags/</loc><lastmod>2021-11-30T21:39:36&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/posts/cf1609e/</loc><lastmod>2021-11-29T21:46:58&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/dp/</loc><lastmod>2021-11-29T21:46:58&#43;08:00</lastmod></url><url>
             <loc>https://sh4c0.github.io/tags/segment-tree/</loc><lastmod>2021-11-29T21:46:58&#43;08:00</lastmod></url><url>
@@ -50,4 +53,5 @@
             <loc>https://sh4c0.github.io/categories/2021/11/</loc></url><url>
             <loc>https://sh4c0.github.io/categories/2021/7/</loc></url><url>
             <loc>https://sh4c0.github.io/categories/2021/8/</loc></url><url>
+            <loc>https://sh4c0.github.io/categories/2022/1/</loc></url><url>
             <loc>https://sh4c0.github.io/categories/</loc></url></urlset>

@@ -24,7 +24,7 @@
     <pubDate>Wed, 21 Jul 2021 19:43:33 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1385e/</guid>
-    <description><![CDATA[传送门 题意 给一个图包含有向边和无向边，将所有无向边改为有向边并且使图中不存在环 思路 首先删除掉所有有向边，通过拓扑排序判断是否有环，如果不存在]]></description>
+    <description><![CDATA[传送门 题意 给一个图包含有向边和无向边，将所有无向边改为有向边并且使图中不存在环 思路 首先删除掉所有无向边，通过拓扑排序判断是否有环，如果不存在]]></description>
 </item><item>
     <title>Codeforces 1200E Compress Words</title>
     <link>https://sh4c0.github.io/posts/cf1200e/</link>
