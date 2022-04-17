@@ -4,7 +4,28 @@
         <link>https://sh4c0.github.io/tags/gym/</link>
         <description>gym - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Thu, 12 Aug 2021 19:24:21 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/gym/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 10 Jan 2022 17:20:36 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/gym/" rel="self" type="application/rss+xml" /><item>
+    <title>2021ICPC区域赛上海站 H Life is a Game</title>
+    <link>https://sh4c0.github.io/posts/gym103446h/</link>
+    <pubDate>Mon, 10 Jan 2022 17:20:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/gym103446h/</guid>
+    <description><![CDATA[传送门 题意 $n$个点，$m$条边，每个点具有点权$a_i$，每条边具有边权$w_i$，$q$次询问 询问当起点为$x$，且具备初始能力$k$时]]></description>
+</item><item>
+    <title>2018ICPC区域赛沈阳站 E The Kouga Ninja Scrolls</title>
+    <link>https://sh4c0.github.io/posts/gym101955e/</link>
+    <pubDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/gym101955e/</guid>
+    <description><![CDATA[传送门 题意 给出$n$个忍者，每个忍者属于帮派$c_i$，位置$(x_i,y_i)$，满足以下操作 将忍者$k$的位置移至$(x_k+x,y_k]]></description>
+</item><item>
+    <title>2018ICPC区域赛沈阳站 G Best ACMer Solves the Hardest Problem</title>
+    <link>https://sh4c0.github.io/posts/gym101955g/</link>
+    <pubDate>Tue, 16 Nov 2021 22:08:04 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/gym101955g/</guid>
+    <description><![CDATA[传送门 题意 给一个二维平面内有$n$个点，满足以下操作： 在$(x,y)$处添加一个点，点权为$w$ 将$(x,y)$处的点删除 将所有与$(x,y]]></description>
+</item><item>
     <title>2021CCPC东北四省赛 C Vertex Deletion</title>
     <link>https://sh4c0.github.io/posts/gym103145c/</link>
     <pubDate>Thu, 12 Aug 2021 19:24:21 &#43;0800</pubDate>

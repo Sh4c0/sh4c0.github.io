@@ -4,12 +4,26 @@
         <link>https://sh4c0.github.io/tags/</link>
         <description>Tags - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 10 Jan 2022 17:20:36 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 18 Apr 2022 00:21:28 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Notes</title>
+    <link>https://sh4c0.github.io/tags/notes/</link>
+    <pubDate>Mon, 18 Apr 2022 00:21:28 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/notes/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>binary lifting on tree</title>
     <link>https://sh4c0.github.io/tags/binary-lifting-on-tree/</link>
     <pubDate>Mon, 10 Jan 2022 17:20:36 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/binary-lifting-on-tree/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>gym</title>
+    <link>https://sh4c0.github.io/tags/gym/</link>
+    <pubDate>Mon, 10 Jan 2022 17:20:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/gym/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Kruskal reconstruction tree</title>
@@ -59,20 +73,6 @@
     <pubDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/manhattan-distance/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>brute force</title>
-    <link>https://sh4c0.github.io/tags/brute-force/</link>
-    <pubDate>Tue, 16 Nov 2021 22:08:04 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/brute-force/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>acwing</title>
-    <link>https://sh4c0.github.io/tags/acwing/</link>
-    <pubDate>Tue, 09 Nov 2021 21:46:50 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/acwing/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
