@@ -5,14 +5,14 @@
         <description>2022/4 - 分类 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
             <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><atom:link href="https://sh4c0.github.io/categories/2022/4/" rel="self" type="application/rss+xml" /><item>
-    <title>Loj10046</title>
+    <title>Loj10046 OKR-Periods of Words</title>
     <link>https://sh4c0.github.io/posts/loj10046/</link>
     <pubDate>Fri, 29 Apr 2022 17:10:30 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/loj10046/</guid>
     <description><![CDATA[传送门 题意 给出⼀个串，求他所有前缀的最⼤周期⻓度之和 思路 对于单个串⽽⾔，最⼤周期为串⻓减去最⼩的Border 那么我们不妨从整体看这个问题，问]]></description>
 </item><item>
-    <title>Nc214395</title>
+    <title>2020HNCPC D String Commutativity</title>
     <link>https://sh4c0.github.io/posts/nc214395/</link>
     <pubDate>Fri, 29 Apr 2022 17:04:42 &#43;0800</pubDate>
     <author>作者</author>
