@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>acwing - 标签 - ShacozzZ&#39;s Blog</title>
+        <title>AcWing - 标签 - ShacozzZ&#39;s Blog</title>
         <link>https://sh4c0.github.io/tags/acwing/</link>
-        <description>acwing - 标签 - ShacozzZ&#39;s Blog</description>
+        <description>AcWing - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
             <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 09 Nov 2021 21:46:50 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/acwing/" rel="self" type="application/rss+xml" /><item>
     <title>Acwing 1063 永无乡</title>

@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>nowcoder - 标签 - ShacozzZ&#39;s Blog</title>
+        <link>https://sh4c0.github.io/tags/nowcoder/</link>
+        <description>nowcoder - 标签 - ShacozzZ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Fri, 29 Apr 2022 17:04:42 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/nowcoder/" rel="self" type="application/rss+xml" /><item>
+    <title>Nc214395</title>
+    <link>https://sh4c0.github.io/posts/nc214395/</link>
+    <pubDate>Fri, 29 Apr 2022 17:04:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/nc214395/</guid>
+    <description><![CDATA[传送门 题意 给 $n$ 个字符串 $S_1 , S_2 , S_3. . . S_n$ ，统计有多少个⼆元组 $(i, j)$ ，满⾜ $i &lt; j$ 且 $S_i + S_j = S_j + S_i$ ，这⾥ $+$ 指字符串拼接 思路 不难发现，要满⾜ $S_i + S_j = S_j]]></description>
+</item></channel>
+</rss>

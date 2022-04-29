@@ -59,7 +59,7 @@
     <pubDate>Sat, 28 Aug 2021 23:05:32 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf126b/</guid>
-    <description><![CDATA[传送门 题意 给一个字符串$S$，找到最长的字符串$T$同时为$S$的前缀、后缀且作为非前后缀出现在字符串中 思路 利用next数组求出串$S$所有]]></description>
+    <description><![CDATA[传送门 题意 给一个字符串$S$，找到最长的字符串$T$同时为$S$的前缀、后缀且作为非前后缀出现在字符串中 思路 显然，如果 $S$ 的最⻓Border出]]></description>
 </item><item>
     <title>Codeforces 1562E Rescue Niwen!</title>
     <link>https://sh4c0.github.io/posts/cf1562e/</link>

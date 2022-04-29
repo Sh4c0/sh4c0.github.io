@@ -4,12 +4,26 @@
         <link>https://sh4c0.github.io/tags/kmp/</link>
         <description>KMP - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Sat, 28 Aug 2021 23:05:32 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/kmp/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Fri, 29 Apr 2022 17:10:30 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/kmp/" rel="self" type="application/rss+xml" /><item>
+    <title>Loj10046</title>
+    <link>https://sh4c0.github.io/posts/loj10046/</link>
+    <pubDate>Fri, 29 Apr 2022 17:10:30 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/loj10046/</guid>
+    <description><![CDATA[传送门 题意 给出⼀个串，求他所有前缀的最⼤周期⻓度之和 思路 对于单个串⽽⾔，最⼤周期为串⻓减去最⼩的Border 那么我们不妨从整体看这个问题，问]]></description>
+</item><item>
+    <title>Nc214395</title>
+    <link>https://sh4c0.github.io/posts/nc214395/</link>
+    <pubDate>Fri, 29 Apr 2022 17:04:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/nc214395/</guid>
+    <description><![CDATA[传送门 题意 给 $n$ 个字符串 $S_1 , S_2 , S_3. . . S_n$ ，统计有多少个⼆元组 $(i, j)$ ，满⾜ $i &lt; j$ 且 $S_i + S_j = S_j + S_i$ ，这⾥ $+$ 指字符串拼接 思路 不难发现，要满⾜ $S_i + S_j = S_j]]></description>
+</item><item>
     <title>Codeforces 126B Password</title>
     <link>https://sh4c0.github.io/posts/cf126b/</link>
     <pubDate>Sat, 28 Aug 2021 23:05:32 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf126b/</guid>
-    <description><![CDATA[传送门 题意 给一个字符串$S$，找到最长的字符串$T$同时为$S$的前缀、后缀且作为非前后缀出现在字符串中 思路 利用next数组求出串$S$所有]]></description>
+    <description><![CDATA[传送门 题意 给一个字符串$S$，找到最长的字符串$T$同时为$S$的前缀、后缀且作为非前后缀出现在字符串中 思路 显然，如果 $S$ 的最⻓Border出]]></description>
 </item></channel>
 </rss>

@@ -4,7 +4,21 @@
         <link>https://sh4c0.github.io/posts/</link>
         <description>所有文章 | ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 18 Apr 2022 00:21:28 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Fri, 29 Apr 2022 17:10:30 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Loj10046</title>
+    <link>https://sh4c0.github.io/posts/loj10046/</link>
+    <pubDate>Fri, 29 Apr 2022 17:10:30 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/loj10046/</guid>
+    <description><![CDATA[传送门 题意 给出⼀个串，求他所有前缀的最⼤周期⻓度之和 思路 对于单个串⽽⾔，最⼤周期为串⻓减去最⼩的Border 那么我们不妨从整体看这个问题，问]]></description>
+</item><item>
+    <title>Nc214395</title>
+    <link>https://sh4c0.github.io/posts/nc214395/</link>
+    <pubDate>Fri, 29 Apr 2022 17:04:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/nc214395/</guid>
+    <description><![CDATA[传送门 题意 给 $n$ 个字符串 $S_1 , S_2 , S_3. . . S_n$ ，统计有多少个⼆元组 $(i, j)$ ，满⾜ $i &lt; j$ 且 $S_i + S_j = S_j + S_i$ ，这⾥ $+$ 指字符串拼接 思路 不难发现，要满⾜ $S_i + S_j = S_j]]></description>
+</item><item>
     <title>退役记&amp;&amp;icpc昆明站游记</title>
     <link>https://sh4c0.github.io/posts/46thicpckunming/</link>
     <pubDate>Mon, 18 Apr 2022 00:21:28 &#43;0800</pubDate>
@@ -60,19 +74,5 @@
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1582e/</guid>
     <description><![CDATA[传送门 题意 将一个数组划分成$k$个子段，对于第$i$个子段和第$i+1$个子段，需要满足子段$i$的元素个数为$n-i+1$，子段$n-(i]]></description>
-</item><item>
-    <title>Codeforces 1602D Frog Traveler</title>
-    <link>https://sh4c0.github.io/posts/cf1602d/</link>
-    <pubDate>Tue, 26 Oct 2021 17:23:59 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/cf1602d/</guid>
-    <description><![CDATA[传送门 题意 一只青蛙在井底初始位置为$n$，想跳到地面（地面为$0$），当青蛙在$i$时，可以向上跳$0～a[i]$任意高度，当青蛙跳到位置$]]></description>
-</item><item>
-    <title>Codeforces 438D The Child and Sequence</title>
-    <link>https://sh4c0.github.io/posts/cf438d/</link>
-    <pubDate>Thu, 21 Oct 2021 16:31:02 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/cf438d/</guid>
-    <description><![CDATA[传送门 题意 构造一种数据结构满足以下三种操作 输出区间$[l,r]$所有元素的和 区间$[l,r]$中所有元素对$x$取模 将元素$a[i]$赋值$]]></description>
 </item></channel>
 </rss>

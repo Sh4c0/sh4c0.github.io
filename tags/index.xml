@@ -4,7 +4,28 @@
         <link>https://sh4c0.github.io/tags/</link>
         <description>Tags - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 18 Apr 2022 00:21:28 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Fri, 29 Apr 2022 17:10:30 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>KMP</title>
+    <link>https://sh4c0.github.io/tags/kmp/</link>
+    <pubDate>Fri, 29 Apr 2022 17:10:30 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/kmp/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>LibreOJ</title>
+    <link>https://sh4c0.github.io/tags/libreoj/</link>
+    <pubDate>Fri, 29 Apr 2022 17:10:30 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/libreoj/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>nowcoder</title>
+    <link>https://sh4c0.github.io/tags/nowcoder/</link>
+    <pubDate>Fri, 29 Apr 2022 17:04:42 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/nowcoder/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Notes</title>
     <link>https://sh4c0.github.io/tags/notes/</link>
     <pubDate>Mon, 18 Apr 2022 00:21:28 &#43;0800</pubDate>
@@ -52,27 +73,6 @@
     <pubDate>Mon, 29 Nov 2021 21:46:58 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/dp/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>segment tree</title>
-    <link>https://sh4c0.github.io/tags/segment-tree/</link>
-    <pubDate>Mon, 29 Nov 2021 21:46:58 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/segment-tree/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Chebyshev distance</title>
-    <link>https://sh4c0.github.io/tags/chebyshev-distance/</link>
-    <pubDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/chebyshev-distance/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Manhattan distance</title>
-    <link>https://sh4c0.github.io/tags/manhattan-distance/</link>
-    <pubDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/manhattan-distance/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
