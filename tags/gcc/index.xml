@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>GCC - 标签 - ShacozzZ&#39;s Blog</title>
+        <link>https://sh4c0.github.io/tags/gcc/</link>
+        <description>GCC - 标签 - ShacozzZ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Sun, 15 May 2022 23:48:14 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/gcc/" rel="self" type="application/rss+xml" /><item>
+    <title>GCC常用参数选项</title>
+    <link>https://sh4c0.github.io/posts/gcc%E5%B8%B8%E7%94%A8%E5%8F%82%E6%95%B0%E9%80%89%E9%A1%B9/</link>
+    <pubDate>Sun, 15 May 2022 23:48:14 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/gcc%E5%B8%B8%E7%94%A8%E5%8F%82%E6%95%B0%E9%80%89%E9%A1%B9/</guid>
+    <description><![CDATA[gcc编译选项 说明 -E 预处理指定的源文件，不进行编译 -s 便已制定的源文件，但是不进行汇编 -c 编译、汇编指定的源文件，但是不进行链接 -o [file1] [file2] / [file2] -o [file1] 将]]></description>
+</item></channel>
+</rss>
