@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Algorithm Lab - 标签 - ShacozzZ&#39;s Blog</title>
+        <link>https://sh4c0.github.io/tags/algorithm-lab/</link>
+        <description>Algorithm Lab - 标签 - ShacozzZ&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 17 May 2022 16:18:50 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/algorithm-lab/" rel="self" type="application/rss+xml" /><item>
+    <title>算法实验题解</title>
+    <link>https://sh4c0.github.io/posts/%E7%AE%97%E6%B3%95%E5%AE%9E%E9%AA%8C%E9%A2%98%E8%A7%A3/</link>
+    <pubDate>Tue, 17 May 2022 16:18:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/%E7%AE%97%E6%B3%95%E5%AE%9E%E9%AA%8C%E9%A2%98%E8%A7%A3/</guid>
+    <description><![CDATA[算法课实验一：勇者斗恶龙 传送门 题意 略 思路 贪心的想，我们需要让勇士的能力值浪费的尽可能小，所以我们应该选择一个能力值与巨龙防御力相近的勇士出门]]></description>
+</item></channel>
+</rss>

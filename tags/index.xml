@@ -4,17 +4,24 @@
         <link>https://sh4c0.github.io/tags/</link>
         <description>Tags - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 16 May 2022 00:00:52 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 17 May 2022 16:18:50 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Algorithm Lab</title>
+    <link>https://sh4c0.github.io/tags/algorithm-lab/</link>
+    <pubDate>Tue, 17 May 2022 16:18:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/tags/algorithm-lab/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>C&#43;&#43;</title>
     <link>https://sh4c0.github.io/tags/c&#43;&#43;/</link>
-    <pubDate>Mon, 16 May 2022 00:00:52 &#43;0800</pubDate>
+    <pubDate>Tue, 17 May 2022 00:27:40 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/c&#43;&#43;/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Linux</title>
     <link>https://sh4c0.github.io/tags/linux/</link>
-    <pubDate>Mon, 16 May 2022 00:00:52 &#43;0800</pubDate>
+    <pubDate>Tue, 17 May 2022 00:27:40 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/linux/</guid>
     <description><![CDATA[]]></description>
@@ -66,13 +73,6 @@
     <pubDate>Mon, 10 Jan 2022 17:20:36 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/tags/gym/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Kruskal reconstruction tree</title>
-    <link>https://sh4c0.github.io/tags/kruskal-reconstruction-tree/</link>
-    <pubDate>Mon, 10 Jan 2022 17:20:36 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/tags/kruskal-reconstruction-tree/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

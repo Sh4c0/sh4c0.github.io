@@ -4,15 +4,29 @@
         <link>https://sh4c0.github.io/</link>
         <description>ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 16 May 2022 00:00:52 &#43;0800</lastBuildDate>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 17 May 2022 16:18:50 &#43;0800</lastBuildDate>
             <atom:link href="https://sh4c0.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>算法实验题解</title>
+    <link>https://sh4c0.github.io/posts/%E7%AE%97%E6%B3%95%E5%AE%9E%E9%AA%8C%E9%A2%98%E8%A7%A3/</link>
+    <pubDate>Tue, 17 May 2022 16:18:50 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/%E7%AE%97%E6%B3%95%E5%AE%9E%E9%AA%8C%E9%A2%98%E8%A7%A3/</guid>
+    <description><![CDATA[算法课实验一：勇者斗恶龙 传送门 题意 略 思路 贪心的想，我们需要让勇士的能力值浪费的尽可能小，所以我们应该选择一个能力值与巨龙防御力相近的勇士出门]]></description>
+</item><item>
+    <title>制作动态库</title>
+    <link>https://sh4c0.github.io/posts/%E5%88%B6%E4%BD%9C%E5%8A%A8%E6%80%81%E5%BA%93/</link>
+    <pubDate>Tue, 17 May 2022 00:27:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/%E5%88%B6%E4%BD%9C%E5%8A%A8%E6%80%81%E5%BA%93/</guid>
+    <description><![CDATA[命名规则：]]></description>
+</item><item>
     <title>制作静态库</title>
     <link>https://sh4c0.github.io/posts/%E5%88%B6%E4%BD%9C%E9%9D%99%E6%80%81%E5%BA%93/</link>
     <pubDate>Mon, 16 May 2022 00:00:52 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/%E5%88%B6%E4%BD%9C%E9%9D%99%E6%80%81%E5%BA%93/</guid>
-    <description><![CDATA[命名规则： Linux/Mac：libxxx.a lib：前缀 xxx：库名 .a：后缀 Windows：libxxx.lib 静态库的制作 gcc获得 .o]]></description>
+    <description><![CDATA[命名规则 Linux/Mac：libxxx.a lib：前缀 xxx：库名 .a：后缀 Windows：libxxx.lib 静态库的制作 gcc获得 .o 文]]></description>
 </item><item>
     <title>GCC常用参数选项</title>
     <link>https://sh4c0.github.io/posts/gcc%E5%B8%B8%E7%94%A8%E5%8F%82%E6%95%B0%E9%80%89%E9%A1%B9/</link>
@@ -62,19 +76,5 @@
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/cf1609e/</guid>
     <description><![CDATA[传送门 题意 给一个长度为$n$只包含$a,b,c$的字符串，对串进行$m$次操作 每一次操作为将位置$pos$处的字符改为字符$c$，并输出此时]]></description>
-</item><item>
-    <title>2018ICPC区域赛沈阳站 E The Kouga Ninja Scrolls</title>
-    <link>https://sh4c0.github.io/posts/gym101955e/</link>
-    <pubDate>Tue, 16 Nov 2021 22:08:19 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/gym101955e/</guid>
-    <description><![CDATA[传送门 题意 给出$n$个忍者，每个忍者属于帮派$c_i$，位置$(x_i,y_i)$，满足以下操作 将忍者$k$的位置移至$(x_k+x,y_k]]></description>
-</item><item>
-    <title>2018ICPC区域赛沈阳站 G Best ACMer Solves the Hardest Problem</title>
-    <link>https://sh4c0.github.io/posts/gym101955g/</link>
-    <pubDate>Tue, 16 Nov 2021 22:08:04 &#43;0800</pubDate>
-    <author>作者</author>
-    <guid>https://sh4c0.github.io/posts/gym101955g/</guid>
-    <description><![CDATA[传送门 题意 给一个二维平面内有$n$个点，满足以下操作： 在$(x,y)$处添加一个点，点权为$w$ 将$(x,y)$处的点删除 将所有与$(x,y]]></description>
 </item></channel>
 </rss>

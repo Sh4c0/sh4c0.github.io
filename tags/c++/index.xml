@@ -4,13 +4,20 @@
         <link>https://sh4c0.github.io/tags/c&#43;&#43;/</link>
         <description>C&#43;&#43; - 标签 - ShacozzZ&#39;s Blog</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>kaijiezhou@outlook.com (ShacozzZ)</managingEditor>
-            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Mon, 16 May 2022 00:00:52 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/c&#43;&#43;/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>kaijiezhou@outlook.com (ShacozzZ)</webMaster><lastBuildDate>Tue, 17 May 2022 00:27:40 &#43;0800</lastBuildDate><atom:link href="https://sh4c0.github.io/tags/c&#43;&#43;/" rel="self" type="application/rss+xml" /><item>
+    <title>制作动态库</title>
+    <link>https://sh4c0.github.io/posts/%E5%88%B6%E4%BD%9C%E5%8A%A8%E6%80%81%E5%BA%93/</link>
+    <pubDate>Tue, 17 May 2022 00:27:40 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://sh4c0.github.io/posts/%E5%88%B6%E4%BD%9C%E5%8A%A8%E6%80%81%E5%BA%93/</guid>
+    <description><![CDATA[命名规则：]]></description>
+</item><item>
     <title>制作静态库</title>
     <link>https://sh4c0.github.io/posts/%E5%88%B6%E4%BD%9C%E9%9D%99%E6%80%81%E5%BA%93/</link>
     <pubDate>Mon, 16 May 2022 00:00:52 &#43;0800</pubDate>
     <author>作者</author>
     <guid>https://sh4c0.github.io/posts/%E5%88%B6%E4%BD%9C%E9%9D%99%E6%80%81%E5%BA%93/</guid>
-    <description><![CDATA[命名规则： Linux/Mac：libxxx.a lib：前缀 xxx：库名 .a：后缀 Windows：libxxx.lib 静态库的制作 gcc获得 .o]]></description>
+    <description><![CDATA[命名规则 Linux/Mac：libxxx.a lib：前缀 xxx：库名 .a：后缀 Windows：libxxx.lib 静态库的制作 gcc获得 .o 文]]></description>
 </item><item>
     <title>GCC常用参数选项</title>
     <link>https://sh4c0.github.io/posts/gcc%E5%B8%B8%E7%94%A8%E5%8F%82%E6%95%B0%E9%80%89%E9%A1%B9/</link>
